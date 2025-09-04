@@ -43,5 +43,5 @@ The tasks explore regression, clustering, classification, and recommendation sys
 - Regression, Clustering, Classification, Recommendation Systems  
 - Model Evaluation (RMSE, Accuracy, Precision, Recall, F1, Confusion Matrix)  
 - Visual Communication of ML results
-- 
+  
 #MachineLearning #DataScience #Elevvo #Internship #Python #AI
